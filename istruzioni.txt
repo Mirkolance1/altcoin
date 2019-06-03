@@ -1,0 +1,6 @@
+# MainNet
+python genesis.py -a scrypt -z "La Cassazione: E reato commercializzare olio, resina e infiorescenze di cannabis" -p "040184710fa689ad5023690c80f3a49c8f13f8d45b8c857fbcbc8bc4a8e4d3eb4b10f4d4604fa08dce601aaf0f470216fe1b51850b4acf21b179c45070ac7b03a9" -n 2083236893 -t 1559236759 -v 100000000100000000 -b 0x1e0ffff0
+
+
+# TestNet
+python genesis.py -a scrypt -z "La Cassazione: E reato commercializzare olio, resina e infiorescenze di cannabis" -p "040184710fa689ad5023690c80f3a49c8f13f8d45b8c857fbcbc8bc4a8e4d3eb4b10f4d4604fa08dce601aaf0f470216fe1b51850b4acf21b179c45070ac7b03a9" -n 293345 -t 1559236759 -v 100000000100000000 -b 0x1e0ffff0
